@@ -1,10 +1,6 @@
 <h1 align="center">
   Formulários de Avaliação
 </h1>
-![License](https://img.shields.io/npm/l/a?color=Green)
-![Last Commit](https://img.shields.io/github/last-commit/Dev-shinsei/Mentoria)
-![Followers](https://img.shields.io/github/followers/Dev-shinsei?style=social)
-![Stars](https://img.shields.io/github/stars/Dev-shinsei/Mentoria?style=social)
 
 <h2 align="center" >Descrição do Projeto</h2>
 <p align="center">
@@ -22,7 +18,8 @@ Os Formulários de Avaliação são o 2° desafio do Stage 03 do programa Explor
 </div>
    
    <div align="center">
-      <img src="images/form.png" alt="logo"/>
+      <img src="formmentoria.png" alt="print do resultado do formulário de mentoria"/>
+      <img src="formavaliacao.png" alt="print do resultado do formulário de avaliação"/>
   </div>
   
   </br>
