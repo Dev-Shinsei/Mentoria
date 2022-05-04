@@ -22,10 +22,10 @@ Os Formulários de Avaliação são o 2° desafio do Stage 03 do programa Explor
   </div>
 
   <div align="center">
-    <img src="./formavaliacao.png" alt="print do resultado do formulário de avaliação"/>
+   <img src="./formavaliacao.png" alt="print do resultado do formulário da avaliação">
   </div>
   
-  </br>
+  </br>git 
   
 ## 🔗 Link da aplicação no ar: 
   
