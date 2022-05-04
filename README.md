@@ -19,7 +19,10 @@ Os Formulários de Avaliação são o 2° desafio do Stage 03 do programa Explor
    
    <div align="center">
       <img src="./formmentoria.png" alt="print do resultado do formulário de mentoria"/>
-      <img src="./formavaliacao.png" alt="print do resultado do formulário de avaliação"/>
+  </div>
+
+  <div align="center">
+    <img src="./formavaliacao.png" alt="print do resultado do formulário de avaliação"/>
   </div>
   
   </br>
