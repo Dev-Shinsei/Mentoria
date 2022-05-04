@@ -23,15 +23,17 @@
 
     <div class="page">
       <form id="my-form">
-        <fieldset>
+        <fieldset class="fieldset-wrapper">
           <legend>Informações Pessoais</legend>
-          <div class="input-wrapper">
-            <label for="name">Nome</label>
-            <input type="text" id="name" />
-          </div>
-          <div class="input-wrapper">
-            <label for="lastname">Sobrenome</label>
-            <input type="text" id="lastname" />
+          <div class="col-2">
+            <div class="input-wrapper">
+              <label for="name">Nome</label>
+              <input type="text" id="name" />
+            </div>
+            <div class="input-wrapper">
+              <label for="lastname">Sobrenome</label>
+              <input type="text" id="lastname" />
+            </div>
           </div>
           <div class="input-wrapper">
             <label for="email"
@@ -61,41 +63,37 @@
           <legend>Seus Horários Disponíveis</legend>
           <div class="col-3">
             <div class="input-wrapper">
-              <h3><strong>Primeira Mentoria</strong></h3>
-              <label for="menthorship-date"
-                >Data <span>(DD/MM/AAAA)</span></label
-              >
-              <input type="date" id="menthorship-date" />
+              <h1>Primeira Mentoria</h1>
+              <label for="event-one-date">Data <span>(DD/MM/AAAA)</span></label>
+              <input type="date" id="event-one-date" />
             </div>
 
             <div class="input-wrapper">
-              <label for="menthorship-begin">Das</label>
-              <input type="time" id="menthorship-begin" />
+              <label for="eventone-begin">Das</label>
+              <input type="time" id="eventone-begin" />
             </div>
 
             <div class="input-wrapper">
-              <label for="menthorship-end">Até</label>
-              <input type="time" id="menthorship-end" />
+              <label for="eventone-end">Até</label>
+              <input type="time" id="eventone-end" />
             </div>
           </div>
 
           <div class="col-3">
             <div class="input-wrapper">
-              <h3><strong>Segunda Mentoria</strong></h3>
-              <label for="menthorship-date"
-                >Data <span>(DD/MM/AAAA)</span></label
-              >
-              <input type="date" id="menthorship-date" />
+              <h1>Segunda Mentoria</h1>
+              <label for="eventtwo-date">Data <span>(DD/MM/AAAA)</span></label>
+              <input type="date" id="eventtwo-date" />
             </div>
 
             <div class="input-wrapper">
-              <label for="menthorship-begin">Das</label>
-              <input type="time" id="menthorship-begin" />
+              <label for="eventtwo-time-begin">Das</label>
+              <input type="time" id="eventtwo-time-begin" />
             </div>
 
             <div class="input-wrapper">
-              <label for="menthorship-end">Até</label>
-              <input type="time" id="menthorship-end" />
+              <label for="eventtwo-time-end">Até</label>
+              <input type="time" id="eventtwo-time-end" />
             </div>
           </div>
         </fieldset>
