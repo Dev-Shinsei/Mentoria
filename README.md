@@ -25,9 +25,9 @@ Os Formulários de Avaliação são o 2° desafio do Stage 03 do programa Explor
    <img src="./formavaliacao.png" alt="print do resultado do formulário da avaliação">
   </div>
   
-  </br>git 
+  </br>
   
-## 🔗 Link da aplicação no ar: 
+## 🔗 Link da aplicação no ar: https://mentoria.netlify.app/ && https://mentoria-avaliacao.netlify.app/
   
 ## :rocket: Tecnologias
 
